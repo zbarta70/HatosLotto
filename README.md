@@ -1,0 +1,2 @@
+# HatosLotto
+Hatoslotto JavaFX alkalmazás
